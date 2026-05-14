@@ -1,0 +1,238 @@
+{
+  "onboarding": {
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "cta": "Empezar",
+    "s1": {
+      "title": "Entrena a tu ritmo",
+      "body": "Videos de entrenamiento en alta calidad, organizados por categoría y listos cuando lo estés."
+    },
+    "s2": {
+      "title": "Manuales a la mano",
+      "body": "Busca y descarga guías en PDF, disponibles en inglés y español."
+    },
+    "s3": {
+      "title": "Una app, todos tus dispositivos",
+      "body": "Continúa donde lo dejaste en celular, tablet y web. Tu progreso viaja contigo."
+    }
+  },
+  "common": {
+    "appName": "App de Entrenamiento",
+    "loading": "Cargando...",
+    "retry": "Reintentar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "search": "Buscar",
+    "back": "Atrás",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar sesión",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "noAccount": "¿No tienes una cuenta?",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "country": "País de procedencia",
+    "phone": "Teléfono (opcional)",
+    "loginCta": "Continuar",
+    "registerCta": "Crear cuenta",
+    "loginHero": "Bienvenido de nuevo",
+    "loginSubtitle": "Continúa tu camino de entrenamiento",
+    "registerHero": "Crea tu cuenta",
+    "registerSubtitle": "Únete a miles de personas aprendiendo",
+    "forgotLink": "¿Olvidaste tu contraseña?",
+    "orContinueWith": "o continúa con",
+    "signInWithApple": "Continuar con Apple",
+    "signInWithGoogle": "Continuar con Google",
+    "twoFactor": "Verificación en dos pasos",
+    "twoFactorEnabled": "Verificación en dos pasos activada",
+    "twoFactorEnable": "Activar verificación en dos pasos",
+    "twoFactorDisable": "Desactivar verificación en dos pasos",
+    "twoFactorScan": "Escanea este QR en una app de autenticación (Google Authenticator, 1Password, Authy).",
+    "twoFactorCode": "Código de 6 dígitos",
+    "twoFactorVerify": "Verificar código",
+    "forgotTitle": "Restablecer contraseña",
+    "forgotSubtitle": "Te enviaremos un enlace para crear una nueva contraseña.",
+    "forgotCta": "Enviar enlace",
+    "forgotSentTitle": "Revisa tu correo",
+    "forgotSentBody": "Enviamos un enlace a {{email}}. Ábrelo desde este dispositivo para crear una nueva contraseña.",
+    "checkEmailTitle": "Verifica tu correo",
+    "checkEmailBody": "Te enviamos un enlace de confirmación a {{email}}. Ábrelo para activar tu cuenta y luego vuelve a iniciar sesión.",
+    "checkEmailResend": "Reenviar correo",
+    "checkEmailResent": "Correo enviado",
+    "backToSignIn": "Volver a iniciar sesión",
+    "editProfile": "Editar perfil",
+    "profileUpdated": "Perfil actualizado",
+    "changePhoto": "Cambiar foto",
+    "errors": {
+      "emailRequired": "El correo es obligatorio",
+      "emailInvalid": "Correo no válido",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordShort": "La contraseña debe tener al menos 8 caracteres",
+      "passwordsDontMatch": "Las contraseñas no coinciden",
+      "nameRequired": "El nombre es obligatorio",
+      "countryRequired": "El país es obligatorio"
+    }
+  },
+  "tabs": {
+    "home": "Inicio",
+    "videos": "Videos",
+    "manuals": "Manuales",
+    "profile": "Perfil"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "featured": "Destacado",
+    "continueWatching": "Continuar viendo",
+    "categories": "Categorías",
+    "latestManuals": "Últimos manuales"
+  },
+  "videos": {
+    "title": "Videos de entrenamiento",
+    "subtitle": "Aprende a tu propio ritmo",
+    "allCategories": "Todas las categorías",
+    "filters": "Filtros",
+    "minutes": "min",
+    "empty": "Aún no hay videos en esta categoría",
+    "emptySearch": "Ningún video coincide con tu búsqueda",
+    "watched": "visto",
+    "save": "Guardar",
+    "share": "Compartir",
+    "about": "Acerca de este video",
+    "showMore": "Ver más",
+    "showLess": "Ver menos",
+    "moreIn": "Más en {{category}}",
+    "relatedTitle": "Más como este",
+    "instructor": "Instructor",
+    "chapters": "Capítulos",
+    "notesTitle": "Mis notas",
+    "notesPlaceholder": "Escribe tus notas aquí. Se guardan automáticamente y solo tú las ves.",
+    "notesSaving": "Guardando…",
+    "notesSaved": "Guardado",
+    "upNext": "A continuación",
+    "playNow": "Ver ahora"
+  },
+  "manuals": {
+    "title": "Manuales",
+    "subtitle": "Documentación y guías",
+    "language": "Idioma",
+    "all": "Todos",
+    "openPdf": "Abrir PDF",
+    "downloadPdf": "Descargar PDF",
+    "downloaded": "Guardado en el dispositivo",
+    "pages": "páginas",
+    "empty": "No hay manuales disponibles",
+    "emptySearch": "Ningún manual coincide con tu búsqueda"
+  },
+  "search": {
+    "title": "Buscar",
+    "subtitle": "Encuentra videos y manuales",
+    "placeholder": "Buscar videos, manuales…",
+    "startTitle": "Empieza a escribir",
+    "startDesc": "Busca en todos los videos de entrenamiento y manuales PDF.",
+    "emptyTitle": "Sin resultados",
+    "emptyDesc": "Prueba con otra palabra."
+  },
+  "profile": {
+    "title": "Perfil",
+    "account": "Cuenta",
+    "bookmarks": "Guardados",
+    "bookmarksEmpty": "Aún no has guardado nada",
+    "bookmarksEmptyDesc": "Toca el icono de marcador en un video o manual para guardarlo.",
+    "preferences": "Preferencias",
+    "about": "Acerca de",
+    "version": "Versión",
+    "security": "Seguridad",
+    "changePassword": "Cambiar contraseña",
+    "currentPassword": "Contraseña actual",
+    "newPassword": "Nueva contraseña",
+    "passwordChanged": "Contraseña actualizada",
+    "danger": "Zona de peligro",
+    "deleteAccount": "Eliminar cuenta",
+    "deleteAccountWarning": "Esto elimina permanentemente tu perfil, sesiones y acceso al contenido. No se puede deshacer.",
+    "deleteAccountConfirm": "Sí, eliminar mi cuenta",
+    "legal": "Legal"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "La página que buscas no existe o fue movida.",
+    "cta": "Volver al inicio"
+  },
+  "legal": {
+    "updatedAt": "13 may 2026",
+    "termsLink": "Términos del servicio",
+    "privacyLink": "Política de privacidad",
+    "terms": {
+      "title": "Términos del servicio",
+      "sections": [
+        {
+          "heading": "1. Aceptación",
+          "body": "Al crear una cuenta o usar la app aceptas estos términos. Si no estás de acuerdo, no uses el servicio."
+        },
+        {
+          "heading": "2. Tu cuenta",
+          "body": "Eres responsable de mantener tus credenciales seguras y de toda la actividad en tu cuenta. Notifícanos de inmediato cualquier acceso no autorizado."
+        },
+        {
+          "heading": "3. Contenido",
+          "body": "Todos los videos, manuales y materiales provistos por la app están licenciados para uso personal y no comercial. No los redistribuyas, revendas ni extraigas."
+        },
+        {
+          "heading": "4. Uso aceptable",
+          "body": "No uses el servicio para subir contenido ilegal, acosar a otros usuarios, intentar romper o aplicar ingeniería inversa al sistema, ni hacer scraping automatizado."
+        },
+        {
+          "heading": "5. Terminación",
+          "body": "Podemos suspender o cerrar cuentas que violen estos términos. Puedes eliminar tu cuenta en cualquier momento desde Perfil > Eliminar cuenta."
+        },
+        {
+          "heading": "6. Garantías",
+          "body": "El servicio se ofrece 'tal cual' sin garantías de ningún tipo. No somos responsables de daños indirectos o consecuentes."
+        },
+        {
+          "heading": "7. Contacto",
+          "body": "¿Preguntas sobre estos términos? Escríbenos a legal@example.com."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "sections": [
+        {
+          "heading": "1. Datos que recopilamos",
+          "body": "Recopilamos los datos que proporcionas al registrarte (nombre, correo, país, teléfono opcional), metadatos de autenticación y señales básicas de uso como qué videos y manuales abres."
+        },
+        {
+          "heading": "2. Cómo los usamos",
+          "body": "Usamos tus datos para autenticarte, personalizar tu experiencia, recomendar contenido de entrenamiento y responder a tus solicitudes de soporte."
+        },
+        {
+          "heading": "3. Almacenamiento y seguridad",
+          "body": "Tus datos se guardan con nuestro proveedor backend (Supabase) usando cifrado estándar de la industria en tránsito y en reposo. En dispositivos móviles, las sesiones se guardan en el almacenamiento seguro de la plataforma."
+        },
+        {
+          "heading": "4. Compartir",
+          "body": "No vendemos tus datos. Los compartimos solo con procesadores necesarios para operar el servicio (autenticación, hosting, almacenamiento)."
+        },
+        {
+          "heading": "5. Tus derechos",
+          "body": "Puedes editar tu perfil desde la app, cambiar tu contraseña o eliminar tu cuenta de forma permanente. Contáctanos para solicitar exportación de datos."
+        },
+        {
+          "heading": "6. Niños",
+          "body": "Este servicio no está dirigido a menores de 13 años. Si crees que un niño se registró, contáctanos para eliminar la cuenta."
+        },
+        {
+          "heading": "7. Contacto",
+          "body": "Preguntas de privacidad: privacy@example.com."
+        }
+      ]
+    }
+  }
+}

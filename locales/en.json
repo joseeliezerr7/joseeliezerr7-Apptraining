@@ -1,0 +1,238 @@
+{
+  "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "cta": "Get started",
+    "s1": {
+      "title": "Train at your pace",
+      "body": "Watch high-quality training videos, organized by category and ready when you are."
+    },
+    "s2": {
+      "title": "Manuals at hand",
+      "body": "Browse, search and download PDF guides — available in English and Spanish."
+    },
+    "s3": {
+      "title": "One app, all your devices",
+      "body": "Pick up where you left off across phone, tablet and web. Your progress travels with you."
+    }
+  },
+  "common": {
+    "appName": "Training App",
+    "loading": "Loading...",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "search": "Search",
+    "back": "Back",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full name",
+    "country": "Country",
+    "phone": "Phone (optional)",
+    "loginCta": "Continue",
+    "registerCta": "Create account",
+    "loginHero": "Welcome back",
+    "loginSubtitle": "Continue your training journey",
+    "registerHero": "Create your account",
+    "registerSubtitle": "Join thousands of learners worldwide",
+    "forgotLink": "Forgot password?",
+    "orContinueWith": "or continue with",
+    "signInWithApple": "Continue with Apple",
+    "signInWithGoogle": "Continue with Google",
+    "twoFactor": "Two-factor authentication",
+    "twoFactorEnabled": "Two-factor authentication is enabled",
+    "twoFactorEnable": "Enable two-factor",
+    "twoFactorDisable": "Disable two-factor",
+    "twoFactorScan": "Scan this QR code in an authenticator app (Google Authenticator, 1Password, Authy).",
+    "twoFactorCode": "6-digit code",
+    "twoFactorVerify": "Verify code",
+    "forgotTitle": "Reset your password",
+    "forgotSubtitle": "We'll email you a link to set a new password.",
+    "forgotCta": "Send reset link",
+    "forgotSentTitle": "Check your email",
+    "forgotSentBody": "We sent a reset link to {{email}}. Open it from this device to set a new password.",
+    "checkEmailTitle": "Verify your email",
+    "checkEmailBody": "We sent a confirmation link to {{email}}. Tap it to activate your account, then come back and sign in.",
+    "checkEmailResend": "Resend email",
+    "checkEmailResent": "Email sent",
+    "backToSignIn": "Back to sign in",
+    "editProfile": "Edit profile",
+    "profileUpdated": "Profile updated",
+    "changePhoto": "Change photo",
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email",
+      "passwordRequired": "Password is required",
+      "passwordShort": "Password must be at least 8 characters",
+      "passwordsDontMatch": "Passwords don't match",
+      "nameRequired": "Full name is required",
+      "countryRequired": "Country is required"
+    }
+  },
+  "tabs": {
+    "home": "Home",
+    "videos": "Videos",
+    "manuals": "Manuals",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Welcome",
+    "featured": "Featured",
+    "continueWatching": "Continue watching",
+    "categories": "Categories",
+    "latestManuals": "Latest manuals"
+  },
+  "videos": {
+    "title": "Training videos",
+    "subtitle": "Learn at your own pace",
+    "allCategories": "All categories",
+    "filters": "Filters",
+    "minutes": "min",
+    "empty": "No videos in this category yet",
+    "emptySearch": "No videos match your search",
+    "watched": "watched",
+    "save": "Save",
+    "share": "Share",
+    "about": "About this video",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "moreIn": "More in {{category}}",
+    "relatedTitle": "More like this",
+    "instructor": "Instructor",
+    "chapters": "Chapters",
+    "notesTitle": "My notes",
+    "notesPlaceholder": "Type your notes here. They're saved automatically and only visible to you.",
+    "notesSaving": "Saving…",
+    "notesSaved": "Saved",
+    "upNext": "Up next",
+    "playNow": "Play now"
+  },
+  "manuals": {
+    "title": "Manuals",
+    "subtitle": "Documentation & guides",
+    "language": "Language",
+    "all": "All",
+    "openPdf": "Open PDF",
+    "downloadPdf": "Download PDF",
+    "downloaded": "Saved to device",
+    "pages": "pages",
+    "empty": "No manuals available",
+    "emptySearch": "No manuals match your search"
+  },
+  "search": {
+    "title": "Search",
+    "subtitle": "Find videos and manuals",
+    "placeholder": "Search videos, manuals…",
+    "startTitle": "Start typing",
+    "startDesc": "Search across all training videos and PDF manuals.",
+    "emptyTitle": "No results",
+    "emptyDesc": "Try a different keyword."
+  },
+  "profile": {
+    "title": "Profile",
+    "account": "Account",
+    "bookmarks": "Saved",
+    "bookmarksEmpty": "Nothing saved yet",
+    "bookmarksEmptyDesc": "Tap the bookmark icon on a video or manual to save it for later.",
+    "preferences": "Preferences",
+    "about": "About",
+    "version": "Version",
+    "security": "Security",
+    "changePassword": "Change password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "passwordChanged": "Password updated",
+    "danger": "Danger zone",
+    "deleteAccount": "Delete account",
+    "deleteAccountWarning": "This permanently removes your profile, sessions, and access to all content. This cannot be undone.",
+    "deleteAccountConfirm": "Yes, delete my account",
+    "legal": "Legal"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you were looking for doesn't exist or has been moved.",
+    "cta": "Back to home"
+  },
+  "legal": {
+    "updatedAt": "2026-05-13",
+    "termsLink": "Terms of service",
+    "privacyLink": "Privacy policy",
+    "terms": {
+      "title": "Terms of service",
+      "sections": [
+        {
+          "heading": "1. Acceptance",
+          "body": "By creating an account or using this app you agree to be bound by these terms. If you do not agree, do not use the service."
+        },
+        {
+          "heading": "2. Your account",
+          "body": "You are responsible for keeping your credentials secure and for all activity in your account. Notify us immediately of any unauthorized access."
+        },
+        {
+          "heading": "3. Content",
+          "body": "All training videos, manuals and materials provided through the app are licensed for personal, non-commercial use. You may not redistribute, resell or extract them."
+        },
+        {
+          "heading": "4. Acceptable use",
+          "body": "Do not use the service to upload illegal content, harass other users, attempt to break or reverse-engineer the system, or scrape content automatically."
+        },
+        {
+          "heading": "5. Termination",
+          "body": "We may suspend or terminate accounts that violate these terms. You may delete your account at any time from Profile > Delete account."
+        },
+        {
+          "heading": "6. Disclaimer",
+          "body": "The service is provided 'as is' without warranties of any kind. We are not liable for indirect or consequential damages."
+        },
+        {
+          "heading": "7. Contact",
+          "body": "Questions about these terms? Reach us at legal@example.com."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "heading": "1. Data we collect",
+          "body": "We collect the data you provide at sign-up (name, email, country, optional phone), authentication metadata, and basic usage signals such as which videos and manuals you open."
+        },
+        {
+          "heading": "2. How we use it",
+          "body": "We use your data to authenticate you, personalize your experience, recommend training content and respond to support requests."
+        },
+        {
+          "heading": "3. Storage and security",
+          "body": "Data is stored with our backend provider (Supabase) under industry-standard encryption in transit and at rest. Sessions on mobile devices are stored in secure platform storage."
+        },
+        {
+          "heading": "4. Sharing",
+          "body": "We do not sell your data. We share it only with processors necessary to run the service (authentication, hosting, storage)."
+        },
+        {
+          "heading": "5. Your rights",
+          "body": "You can edit your profile from the app, change your password, or delete your account permanently. Contact us to request a data export."
+        },
+        {
+          "heading": "6. Children",
+          "body": "This service is not directed to children under 13. If you believe a child has registered, contact us to have the account removed."
+        },
+        {
+          "heading": "7. Contact",
+          "body": "Privacy questions: privacy@example.com."
+        }
+      ]
+    }
+  }
+}
